@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 
 # ============ НАСТРОЙКИ ============
-TOKEN = os.environ.get('BOT_TOKEN', 'ТВОЙ_ТОКЕН')  # Берем из настроек Render
+TOKEN = os.environ.get('8570211662:AAE76eJdos0ROr3eFaDigq21cQJnLd1WGUQ')  # Берем из настроек Render
 CONFIG_FILE = "/data/chat_config.json"
 
 # ============ СОЗДАЕМ БОТА ============
